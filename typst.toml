@@ -1,0 +1,16 @@
+[package]
+name = "rcnf-reed-thesis"
+version = "1.1.0"
+entrypoint = "reedthesis.typ"
+categories = [ "thesis" ]
+keywords = [ "reed" ]
+disciplines = [ ]
+description = "Reed College senior thesis."
+license = "MIT"
+repository = "https://github.com/reed-cs-and-friends/reed-thesis-template-typst"
+authors = [ "reed cs (& friends) <@reed-cs-and-friends>" ]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumb.png"
